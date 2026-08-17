@@ -54,7 +54,7 @@ The dashboard analyzes:
 - `Amazon_Sales_Performance.pbix` — Power BI dashboard
 - `Amazon_Sales_Dashboard.pdf` — Dashboard PDF
 - `Dashboard_Screenshot.png` — Dashboard preview
-- `Dataset/` — Source dataset
+- `Amazon+retail+store+dataset.xlsx` — Source dataset
 
 ## 👨‍💻 Author
 
